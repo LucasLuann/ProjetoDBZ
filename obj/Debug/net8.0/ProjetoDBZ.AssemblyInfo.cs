@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoDBZ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d13a6d046c5a48c5980e6beb2d8d9b8e224aeffa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b8e700b85a8b1f89fb6c80972178e101507e8d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoDBZ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoDBZ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
